@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextWrappingSvgDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "\"testing loooooooong line here, how will it fit? should it take next line maybe? Visual studio has a word wrap for arguments\""
+    }
+  }
+}
