@@ -8,7 +8,7 @@ class Program
     {
         if (args.Length != 1)
         {
-            Console.WriteLine("Usage: SvgCreator.exe <text>");
+            Console.WriteLine("Usage: TextWrappingSvgDemo.exe <text>");
             return;
         }
 
